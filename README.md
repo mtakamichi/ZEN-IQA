@@ -42,9 +42,6 @@ If our work is useful for your research, please consider citing:
         year = {2024}
     }
 
-## License
-
-This project is licensed under <a rel="license" href="https://github.com/mtakamichi/ZEN-IQA-private/blob/main/LICENSE">NTU S-Lab License 1.0</a>. Redistribution and use should follow this license.
 
 ## Acknowledgement
 This implementation is heavily based on [CLIP-IQA](https://github.com/IceClear/CLIP-IQA/), [MMEditing](https://github.com/open-mmlab/mmediting), and [CLIP](https://github.com/openai/CLIP).
