@@ -1,6 +1,7 @@
 
 # ZEN-IQA: Zero-Shot Explainable and No-Reference Image Quality Assessment with Vision Language Model (IEEE Access)
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mtakamichi.ZEN-IQA)
 <img src="pipeline.png" width="800">
 
 [Takamichi Miyata](https://sites.google.com/site/takamichimiyata/)
