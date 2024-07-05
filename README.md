@@ -43,6 +43,10 @@ If our work is useful for your research, please consider citing:
         title = {ZEN-IQA: Zero-Shot Explainable and No-Reference Image Quality Assessment with Vision Language Model},
         journal  = {IEEE Access},
         year = {2024}
+        volume={12},
+        number={},
+        pages={70973-70983},
+        doi={10.1109/ACCESS.2024.3402729}}
     }
 
 
